@@ -87,7 +87,6 @@ def deleteTask():
 
     stat['text'] = "You {} : Comp {}".format(your_win, comp_win)
 
-
 # ------------------------------------------------
 
 button_1 = Button(frame, text="paper",
